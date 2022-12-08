@@ -4,7 +4,11 @@ Approaching this dataset I wanted to put on the user's shoes and live his journe
 
 
 Plotting the average steps against the weekdays it was obvious that the users are most active at the Saturdays and Tuesdays and least active at the Lazy Sundays
+
+
+
 ![alt text](https://github.com/zyadbarghout/BellaBeat-/blob/master/images/avg%20steps%20daily.PNG)
+
 
 While this was a great insight it reamined unclear when were the users most active among these days and what is the reasoning behind it?
 
